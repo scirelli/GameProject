@@ -1,0 +1,14 @@
+Players get exp so they can use diffrent items.
+
+You can either choose from diffrent char classes to start with or
+	biuld a certian type of char as u go along (wizzard, worrior, ranger)
+
+Each char type can only use certian weapons and spells in the game.
+	Whether all the items are in the game or just the ones for your char class depends
+	on whether you build the char as u go or u pick when you start.
+
+Story Line:
+	Something along the lines of when he was born he was such an ugly baby that
+	his parents left him by a rive (not yet named) for someone else to find.
+	Not sure who finds him yet, either a blind person or some sort of teacher.
+	
